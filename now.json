@@ -10,12 +10,6 @@
       "use": "@now/static"
     }
   ],
-  "routes": [
-    {
-      "src": "^/(.*)[.](html|ico|jpg|json|pdf|png|svg|txt|webp|xml)$",
-      "dest": "/static/$1.$2"
-    }
-  ],
   "alias": ["utz.science"],
   "regions": ["all"]
 }
