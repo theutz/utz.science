@@ -16,5 +16,6 @@
       "dest": "/static/$1.$2"
     }
   ],
+  "alias": ["utz.science"],
   "regions": ["all"]
 }
